@@ -1,0 +1,13 @@
+streamlit 
+pypdf2
+langchain
+#pip install -U langchain # -U means latest
+python-dotenv
+faiss-cpu
+openai
+huggingface_hub
+InstructorEmbedding
+sentence-transformers
+tiktoken
+torch==2.0.1
+google-generativeai
